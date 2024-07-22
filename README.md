@@ -30,12 +30,12 @@
 
 5. **Clonez le répertoire git actuel à la racine**:
    ```sh
-   git clone https://votre-repo.git /racine
+   git clone [https://github.com/Ryvexam/ProxyPortainer](https://github.com/Ryvexam/ProxyPortainer)
    ```
 
-6. **Accédez au dossier cloné `proxy-portainer`**:
+6. **Accédez au dossier cloné `ProxyPortainer`**:
    ```sh
-   cd /racine/proxy-portainer
+   cd ProxyPortainer
    ```
 
 7. **Lancez Docker Compose**:
