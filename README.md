@@ -30,7 +30,7 @@
 
 5. **Clonez le répertoire git actuel à la racine**:
    ```sh
-   git clone [https://github.com/Ryvexam/ProxyPortainer](https://github.com/Ryvexam/ProxyPortainer)
+   git clone https://github.com/Ryvexam/ProxyPortainer
    ```
 
 6. **Accédez au dossier cloné `ProxyPortainer`**:
