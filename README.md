@@ -18,7 +18,7 @@
 
 3. **Installez Docker**:
    ```sh
-   sudo apt install docker.io -y
+   sudo apt install docker -y
    ```
 
 4. **Installez Docker Compose**:
@@ -35,7 +35,7 @@
 
 6. **Accédez au dossier cloné `ProxyPortainer`**:
    ```sh
-   cd ProxyPortainer
+   cd ProxyPortainer/ProxyPortainer
    ```
 
 7. **Lancez Docker Compose**:
